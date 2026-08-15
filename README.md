@@ -2,6 +2,8 @@
 
 A machine learning project that predicts a student's **placement status** based on academic and performance-related factors. Built using **Scikit-learn**, **Logistic Regression**, and **Streamlit** for real-time predictions.
 
+## Live App Link
+https://placement-prediction-87hsdfd.streamlit.app/
 ## 🚀 Features
 
 - Data Cleaning & Preprocessing
